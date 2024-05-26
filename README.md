@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thesimplekid&theme=tokyonight" alt="mystreak"/>
 
 <!--
 **thesimplekid/thesimplekid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
